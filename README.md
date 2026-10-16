@@ -1,4 +1,4 @@
-# dojjo-ai
+# djjo-ai
 DOJJO AI is an AI-powered web application that helps users understand what to do next when they get stuck on a website or application. Users can simply take a screenshot of the page they are using and upload it to DOJJO. The AI analyzes the screenshot and provides clear, simple, step-by-step instructions to help them move forward.
 
 For example, if someone is filling out a government form and doesn't understand which field to complete or what to do next, DOJJO guides them in easy-to-understand language. It aims to make complex websites and online tasks easier for everyone, especially students, beginners, and people who are not familiar with digital platforms.
