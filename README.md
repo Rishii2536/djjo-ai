@@ -21,5 +21,5 @@ https://github.com/Rishii2536/dojjo-ai
 Team member name 
 Sudhanshu ,
 Shivam , 
-Ayush ,
+Ayush , 
 Yash ,
