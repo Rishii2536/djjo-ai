@@ -17,3 +17,9 @@ To make learning more engaging, DOJJO includes gamification features such as poi
 
 *Tagline:* Stuck on a screen? DOJJO shows the way.
 https://github.com/Rishii2536/dojjo-ai
+
+Team member name 
+Sudhanshu
+Shivam
+Ayush
+Yash
