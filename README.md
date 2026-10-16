@@ -16,3 +16,4 @@ To make learning more engaging, DOJJO includes gamification features such as poi
 *Our Mission:* To make every website easier to understand and every digital task easier to complete.
 
 *Tagline:* Stuck on a screen? DOJJO shows the way.
+https://github.com/Rishii2536/dojjo-ai
