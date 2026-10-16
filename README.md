@@ -19,7 +19,7 @@ To make learning more engaging, DOJJO includes gamification features such as poi
 https://github.com/Rishii2536/dojjo-ai
 
 Team member name 
-Sudhanshu
-Shivam
-Ayush
-Yash
+Sudhanshu ,
+Shivam , 
+Ayush ,
+Yash ,
